@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530127034653",
+    "firebase_url": "https://ustocktradeassignment.firebaseio.com",
+    "project_id": "ustocktradeassignment",
+    "storage_bucket": "ustocktradeassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530127034653:android:6434a4837074cdbdd969f4",
+        "android_client_info": {
+          "package_name": "com.mobile.gui.ustocktradechangepassword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530127034653-kcl174poteng2cv7vseuheod7rj2f6eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.gui.ustocktradechangepassword",
+            "certificate_hash": "f34fc55e681116fa20227968182c523097cd13e7"
+          }
+        },
+        {
+          "client_id": "530127034653-5qrsqta6819vhd6dha4eb4vi334q6i01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6MycusvoM3gIPpB4X_O8YZ5Jj5oBAoWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530127034653-5qrsqta6819vhd6dha4eb4vi334q6i01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
